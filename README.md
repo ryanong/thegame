@@ -3,8 +3,7 @@ thegame
 
 You really don't want to know what this is unless you figure it out yourself.
 
-### You just lost the game.... Probably....
-Not for the reason you think though.
+### You just lost the game.... But you can still Win!....
 
 The Game is called Quine
 Rules of "Quine"
